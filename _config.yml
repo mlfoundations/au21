@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: EFML
-tagline: Emperical Foundations of Machine Learning
+tagline: Empirical Foundations of Machine Learning
 description: Universtiy of Washington, Autum 2021
 author: Ludwig Schmidt
 baseurl: '/au21' # the subpath of your site, e.g. /blog
