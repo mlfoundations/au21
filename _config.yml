@@ -17,8 +17,8 @@ title: Empirical Foundations of Machine Learning
 tagline: Fall 2021
 description: Examining the foundations of machine learning from an empirical perspective
 author: Ludwig Schmidt
-baseurl: '/efml_au21' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/au21' # the subpath of your site, e.g. /blog
+url: 'https://mlfoundations.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
