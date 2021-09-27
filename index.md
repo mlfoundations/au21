@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Just the Class
+title: Empirical Foundations of Machine Learning
 nav_exclude: true
 seo:
-  type: Course
-  name: Just the Class
+  type: Autum 2021
+  name: Empirical Foundations of Machine Learning
 ---
 
 # {{ site.tagline }}
