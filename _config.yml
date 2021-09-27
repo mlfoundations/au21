@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Empirical Foundations of Machine Learning
-tagline: Fall 2021
-description: Examining the foundations of machine learning from an empirical perspective
+title: EFML
+tagline: Emperical Foundations of Machine Learning
+description: Universtiy of Washington, Autum 2021
 author: Ludwig Schmidt
 baseurl: '/au21' # the subpath of your site, e.g. /blog
 url: 'https://mlfoundations.github.io' # the base hostname & protocol for your site, e.g. http://example.com
@@ -28,10 +28,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Ludwig Schmidt:
+    - 'https://people.csail.mit.edu/ludwigs/'
+  # Just the Class on GitHub:
+  #   - 'https://github.com/kevinlin1/just-the-class'
 footer_content:
 
 # Collections for website data
