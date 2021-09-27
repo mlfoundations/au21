@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: EFML
 tagline: Empirical Foundations of Machine Learning
-description: Universtiy of Washington, Autum 2021
+description: University of Washington, Autumn 2021
 author: Ludwig Schmidt
 baseurl: '/au21' # the subpath of your site, e.g. /blog
 url: 'https://mlfoundations.github.io' # the base hostname & protocol for your site, e.g. http://example.com

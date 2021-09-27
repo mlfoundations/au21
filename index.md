@@ -3,7 +3,7 @@ layout: home
 title: Empirical Foundations of Machine Learning
 nav_exclude: true
 seo:
-  type: Autum 2021
+  type: Autumn 2021
   name: Empirical Foundations of Machine Learning
 ---
 
