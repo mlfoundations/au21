@@ -30,8 +30,8 @@ permalink: pretty
 aux_links:
   Ludwig Schmidt:
     - 'https://people.csail.mit.edu/ludwigs/'
-  # Just the Class on GitHub:
-  #   - 'https://github.com/kevinlin1/just-the-class'
+  Home:
+    - 'https://mlfoundations.github.io/au21'
 footer_content:
 
 # Collections for website data
