@@ -57,6 +57,8 @@
 
   {%- assign pages_list = sorted_number_ordered_pages | concat: sorted_string_ordered_pages -%}
   <li class="nav-list-item"><a href="https://mlfoundations.github.io/au21/" class="nav-list-link">Home</a></li>
+  <li class="nav-list-item"><a href="https://mlfoundations.github.io/au21/announcements/" class="nav-list-link">Announcements</a></li>
+
   {%- for node in pages_list -%}
     {%- if node.parent == nil -%}
       {%- unless node.nav_exclude -%}

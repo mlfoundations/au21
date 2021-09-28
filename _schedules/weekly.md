@@ -21,7 +21,17 @@ timeline:
 schedule:
   - name: Monday
   - name: Tuesday
+    events:
+    - name: Lecture
+      start: 10:00 AM
+      end: 11:20 AM
+      location: TBA
   - name: Wednesday
   - name: Thursday
+    events:
+    - name: Lecture
+      start: 10:00 AM
+      end: 11:20 AM
+      location: TBA
   - name: Friday
 ---
