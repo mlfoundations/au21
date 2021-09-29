@@ -19,7 +19,7 @@ seo:
 
 ## About
 
-Many advances from the past decade of machine learning are empirical in nature, but the assumptions underlying the experimental frameworks are often unclear and sometimes invalid. This course will examine machine learning from the perspective of an experimental science. We will start with fundamentals from applied statistics, learning theory, causality, and philosophy of science to build a rigorous toolkit for analyzing machine learning experiments. We will then see these concepts in action when we discuss key empirical advances from the past decade of machine learning research. The course will place a particular focus on the role of datasets, evaluations, and reliable generalization. Finally we will proceed to the research frontier in these directions and discuss recent papers, the current state of the field, and possible future developments.
+Many advances from the past decade of machine learning are empirical in nature, but the assumptions underlying common experimental frameworks are often unclear and sometimes invalid. This course will examine machine learning from the perspective of an experimental science. We will start with fundamentals from applied statistics, learning theory, causality, and philosophy of science to build a rigorous toolkit for analyzing machine learning experiments. We will then see these concepts in action when we discuss key empirical advances from the past decade of machine learning research. The course will place a particular focus on the role of datasets, evaluations, and reliable generalization. Finally we will proceed to the research frontier in these directions and discuss recent papers, the current state of the field, and possible future developments.
 
 Why focus on empirical foundations? Many papers in machine learning follow a common experimental framework: Researchers propose a new method, evaluate it on a dataset, and claim success if the method improves over prior baselines. While the resulting methods sometimes appear ad-hoc and without principled motivation, this approach to machine learning has still been highly influential over the past decade and produced ubiquitous methods such as ResNets or Transformers. At the same time, the existing evaluation paradigm is coming under increasing pressure from the rapid growth of machine learning and the heightened expectations users have for the resulting methods. Indeed, there is now a growing literature on reliability concerns and failed evaluations in machine learning. This course will prepare students to engage with this literature and conduct rigorous experiments in machine learning.
 
@@ -28,12 +28,12 @@ The class format will be a combination of lectures and discussions. The lecture 
 
 ## Lecture
 
-TBA!
+Tuesday / Thursday 10 - 11:20 am PT  (location TBA)
 
 ## Resources
 
-TBA!
+TBA
 
 ## Assignments
 
-TBA!
+TBA
