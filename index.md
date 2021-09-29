@@ -14,7 +14,7 @@ seo:
 
 {% if site.announcements %}
 {{ site.announcements.last }}
-[Announcements](announcements.md){: .btn .btn-outline .fs-3 }
+[More announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
 ## About
