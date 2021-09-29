@@ -30,6 +30,8 @@ permalink: pretty
 aux_links:
   Ludwig Schmidt:
     - 'https://people.csail.mit.edu/ludwigs/'
+  Course mattermost:
+    - 'https://mattermost.cs.washington.edu/efml-au21'
 footer_content:
 
 # Collections for website data
