@@ -25,13 +25,13 @@ schedule:
     - name: Lecture
       start: 10:00 AM
       end: 11:20 AM
-      location: TBA
+      location: CSE2 G04
   - name: Wednesday
   - name: Thursday
     events:
     - name: Lecture
       start: 10:00 AM
       end: 11:20 AM
-      location: TBA
+      location: CSE2 G04
   - name: Friday
 ---
