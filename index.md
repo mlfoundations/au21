@@ -28,7 +28,7 @@ The class format will be a combination of lectures and discussions. The lecture 
 
 ## Lecture
 
-Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building)
+Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 ## Resources
 
