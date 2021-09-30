@@ -1,5 +1,5 @@
 ---
-title:
+title: Lectures
 ---
 
 Sep 30
