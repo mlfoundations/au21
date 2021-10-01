@@ -33,7 +33,8 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 ## Resources
 
-TBA
+
+**Lecture 1**{: .label .label-purple }Introduction (Sept. 30, [one page per slide](/au21/assets/lectures/cs599_au21_lecture_01.pdf), [one page per animation](/au21/assets/lectures/cs599_au21_lecture_01_build.pdf))
 
 ## Assignments
 
