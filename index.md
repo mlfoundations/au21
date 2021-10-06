@@ -36,7 +36,7 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 **Lecture 1**{: .label .label-purple }Introduction (Sept. 30, [one page per slide](/au21/assets/lectures/cs599_au21_lecture_01.pdf), [one page per animation](/au21/assets/lectures/cs599_au21_lecture_01_build.pdf)).
 
-**Lecture 2**{: .label .label-purple }Course project motivation and details (Oct. 5, [one page per slide](/au21/assets/lectures/cs599_au21_lecture_02.pdf), [one page per animation](/au21/assets/lectures/cs599_au21_lecture_02_one_page_per_animation.pdf)).
+**Lecture 2**{: .label .label-purple }Project motivation and details (Oct. 5, [one page per slide](/au21/assets/lectures/cs599_au21_lecture_02.pdf), [one page per animation](/au21/assets/lectures/cs599_au21_lecture_02_one_page_per_animation.pdf)).
 
 ## Assignments
 
