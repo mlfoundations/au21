@@ -40,4 +40,37 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 ## Assignments
 
-TBA
+### Course Project
+
+Project proposals are due Tuesday, October 19 at 10am PT. 
+Only one person in your group of 1-3 must submit a proposal, 
+by email to Ludwig and Mitchell (please list all members on the PDF).
+
+The proposal deadline has been extended to from October 14 to 
+October 19 so that it
+does not conflict with the first paper reading seminar.
+
+The proposal should be 1-2 pages including sketches of 
+the main plots (does not have to be real data), 
+and describe the goals of your team for the final 
+project (including details such as datasets, etc.).
+
+### Role-Playing Paper-Reading Seminars
+
+Inspired by [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/) and 
+[Colin Raffel](https://colinraffel.com/), we will be discussing papers in 
+the [many-to-many role-playing format](https://colinraffel.com/blog/role-playing-seminar.html).
+
+Roles and their descriptions can be found [here](https://colinraffel.com/blog/role-playing-seminar.html), though we will make the following modifications:
+- Added role: summarizer. This team will be responsible for providing a short 8 minute summary of the papers and will be the first role to present.
+- Added role: connector. This team will be responsible for connecting the two papers to each other, and to other papers we have read or discussed.
+- Modified role: The scientific peer reviewer has been split into two roles, a positive reviewer (advocate) and a negative reviewer (skeptic).
+
+Logistics will work as follows:
+- At least 3 days before the discussion (i.e., Monday for a Thursday discussion) please start a group message with your team on Mattermost.
+- Before the discussion, upload your slides to the shared google slides and decide on a presenter.
+- All roles will have 4 minutes to present which will be followed by a 4 minute discussion, except the summarizer who will have 8.
+
+**Discussion 1**{: .label .label-purple } (Thursday, Oct 14): Role assignments can be found in the paper discussion channel on mattermost. We will be reading:
+- [ImageNet: A Large-Scale Hierarchical Image Database](https://image-net.org/static_files/papers/imagenet_cvpr09.pdf)
+- [ImageNet Large Scale Visual Recognition Challenge](https://arxiv.org/abs/1409.0575)
