@@ -13,9 +13,7 @@ seo:
 {: .fs-6 .fw-300 }
 
 {% if site.announcements %}
-{{ site.announcements[3] }}
-{{ site.announcements[2] }}
-[More announcements](announcements.md){: .btn .btn-outline .fs-3 }
+[Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
 ## About

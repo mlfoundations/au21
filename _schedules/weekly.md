@@ -33,9 +33,5 @@ schedule:
       start: 10:00 AM
       end: 11:20 AM
       location: CSE2 G04
-    - name: Office hours
-      start: 12:30 PM
-      end: 1:30 PM
-      location: TBA
   - name: Friday
 ---
