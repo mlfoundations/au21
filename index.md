@@ -73,6 +73,6 @@ Logistics will work as follows:
 - [ImageNet: A Large-Scale Hierarchical Image Database](https://image-net.org/static_files/papers/imagenet_cvpr09.pdf)
 - [ImageNet Large Scale Visual Recognition Challenge](https://arxiv.org/abs/1409.0575)
 
-**Discussion 2**{: .label .label-purple } (Thursday, Oct 14): Role assignments can be found in the paper discussion channel on mattermost. We will be reading:
+**Discussion 2**{: .label .label-purple } (Thursday, Oct 21): Role assignments can be found in the paper discussion channel on mattermost. We will be reading:
 - [ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 - [Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/abs/1512.03385)
