@@ -31,10 +31,43 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 ## Resources
 
+### Lectures
 
 **Lecture 1**{: .label .label-purple }Introduction (Sept. 30, [one page per slide](/au21/assets/lectures/cs599_au21_lecture_01.pdf), [one page per animation](/au21/assets/lectures/cs599_au21_lecture_01_build.pdf)).
 
 **Lecture 2**{: .label .label-purple }Project motivation and details (Oct. 5, [one page per slide](/au21/assets/lectures/cs599_au21_lecture_02.pdf), [one page per animation](/au21/assets/lectures/cs599_au21_lecture_02_one_page_per_animation.pdf)).
+
+**Lecture 3**{: .label .label-purple }Additional logistics and introduction to benchmarks (Oct. 7, [one page per slide](/au21/assets/lectures/cs599_au21_lecture_03.pdf), [one page per animation](/au21/assets/lectures/cs599_au21_lecture_03_one_page_per_animation.pdf)).
+
+**Lecture 4**{: .label .label-purple }Statistics I (Oct. 12, [code](/au21/assets/lectures/class_4_5.ipynb), see statistics resources below).
+
+**Lecture 5**{: .label .label-purple }Discussion 1 (Oct. 14, ImageNet).
+
+**Lecture 6**{: .label .label-purple }Statistics II (Oct. 19, [code](/au21/assets/lectures/class_4_5.ipynb), [statsmodels documentation](https://www.statsmodels.org/stable/generated/statsmodels.stats.proportion.proportion_confint.html?highlight=clopper), see statistics resources below).
+
+**Lecture 7**{: .label .label-purple }Discussion 2 (Oct. 14, AlexNet and ResNet).
+
+### Statistics resources
+
+- [Stochastic Multi-Armed Bandits, Regret Minimization](https://courses.cs.washington.edu/courses/cse599i/18wi/resources/lecture3/lecture3.pdf). 
+Lecture notes form Kevin Jamieson. See for Lecture 4.
+- [High Dimensional Statistics](http://www-math.mit.edu/~rigollet/PDFs/RigNotes17.pdf). 
+Lecture notes by Philippe Rigollet and Jan-Christian Hütter. See for Lecture 4 (second half of chapter 1) and Lecture 5.
+- [High-Dimensional Statistics](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E). 
+Book by Martin J. Wainwright. See for Lecture 5.
+- [Confidence Bounds & Intervals for Parameters Relating to the Binomial, Negative Binomial, Poisson and Hypergeometric Distributions](http://faculty.washington.edu/fscholz/DATAFILES498B2008/ConfidenceBounds.pdf).
+Lecture notes by Fritz Scholz. See for Clopper-Pearson derivation in Lecture 5.
+- [High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html). 
+Book by Roman Vershynin.
+See for the development of concentration based on sub-Gaussianity etc. (Lecture 5).
+- [Probability in High Dimension](https://web.math.princeton.edu/~rvan/APC550.pdf). 
+Lecture notes by Ramon van Handel.
+See for the development of concentration based on sub-Gaussianity etc. (Lecture 5).
+- [Concentration Inequalities: A Nonasymptotic Theory of Independence](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199535255.001.0001/acprof-9780199535255). 
+Book by Stéphane Boucheron, Gábor Lugosi, and Pascal Massart.
+See for the development of concentration based on sub-Gaussianity etc. (Lecture 5).
+- [All of Statistics](https://www.springer.com/gp/book/9780387402727). 
+Book by Larry Wasserman. See for Lecture 3 and general reference.
 
 ## Assignments
 
@@ -76,3 +109,8 @@ Logistics will work as follows:
 **Discussion 2**{: .label .label-purple } (Thursday, Oct 21): Role assignments can be found in the paper discussion channel on mattermost. We will be reading:
 - [ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 - [Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/abs/1512.03385)
+
+**Discussion 3**{: .label .label-purple } (Thursday, Oct 28): Role assignments can be found in the paper discussion channel on mattermost. We will be reading:
+- [Deep Reinforcement Learning at the Edge of the Statistical Precipice](https://arxiv.org/abs/2108.13264)
+- [With Little Power Comes Great Responsibility](https://arxiv.org/abs/2010.06595)
+
