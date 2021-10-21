@@ -29,10 +29,6 @@ The class format will be a combination of lectures and discussions. The lecture 
 
 Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
-## Resources
-
-### Lectures
-
 **Lecture 1**{: .label .label-purple }Introduction (Sept. 30, [one page per slide](/au21/assets/lectures/cs599_au21_lecture_01.pdf), [one page per animation](/au21/assets/lectures/cs599_au21_lecture_01_build.pdf)).
 
 **Lecture 2**{: .label .label-purple }Project motivation and details (Oct. 5, [one page per slide](/au21/assets/lectures/cs599_au21_lecture_02.pdf), [one page per animation](/au21/assets/lectures/cs599_au21_lecture_02_one_page_per_animation.pdf)).
@@ -45,7 +41,9 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 **Lecture 6**{: .label .label-purple }Statistics II (Oct. 19, [code](/au21/assets/lectures/class_4_5.ipynb), [statsmodels documentation](https://www.statsmodels.org/stable/generated/statsmodels.stats.proportion.proportion_confint.html?highlight=clopper), see statistics resources below).
 
-**Lecture 7**{: .label .label-purple }Discussion 2 (Oct. 14, AlexNet and ResNet).
+**Lecture 7**{: .label .label-purple }Discussion 2 (Oct. 21, AlexNet and ResNet).
+
+## Resources
 
 ### Statistics resources
 
