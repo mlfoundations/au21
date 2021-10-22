@@ -46,26 +46,17 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 **Lecture 5**{: .label .label-purple }Discussion 1 (Oct. 14, ImageNet).
 
 **Lecture 6**{: .label .label-purple }Statistics II (Oct. 19, [code](/au21/assets/lectures/class_4_5.ipynb), [statsmodels documentation](https://www.statsmodels.org/stable/generated/statsmodels.stats.proportion.proportion_confint.html?highlight=clopper), see statistics resources below).
+* The treatment of sub-Gaussian random variables and their properties was based on Chapter 1 in the [high-dimensional statistics](http://www-math.mit.edu/~rigollet/PDFs/RigNotes17.pdf) lecture notes by [Philippe Rigollet](http://www-math.mit.edu/~rigollet/) and [Jan-Christian Hütter](https://www.jchuetter.com) and [Martin Wainwright's](https://people.eecs.berkeley.edu/~wainwrig/) book on [high-dimensional statistics](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E).
+* The derivation of Clopper-Pearson confidence intervals followed the [lecture notes](http://faculty.washington.edu/fscholz/DATAFILES498B2008/ConfidenceBounds.pdf) by [Fritz Scholz](http://faculty.washington.edu/fscholz/).
+* The [Jupyter notebook](/au21/assets/lectures/class_4_5.ipynb) to illustrate the coverage properties of confidence intervals.
+
+There are many more excellent resources on concentration of measure, for instance
+- The book [High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html) by Roman Vershynin.
+- The lecture notes [Probability in High Dimension](https://web.math.princeton.edu/~rvan/APC550.pdf)  by Ramon van Handel.
+- The book [Concentration Inequalities: A Nonasymptotic Theory of Independence](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199535255.001.0001/acprof-9780199535255) by Stéphane Boucheron, Gábor Lugosi, and Pascal Massart.
 
 **Lecture 7**{: .label .label-purple }Discussion 2 (Oct. 21, AlexNet and ResNet).
 
-## Resources
-
-### Statistics resources
-
-- [High-Dimensional Statistics](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E). 
-Book by Martin J. Wainwright. See for Lecture 5.
-- [Confidence Bounds & Intervals for Parameters Relating to the Binomial, Negative Binomial, Poisson and Hypergeometric Distributions](http://faculty.washington.edu/fscholz/DATAFILES498B2008/ConfidenceBounds.pdf).
-Lecture notes by Fritz Scholz. See for Clopper-Pearson derivation in Lecture 5.
-- [High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html). 
-Book by Roman Vershynin.
-See for the development of concentration based on sub-Gaussianity etc. (Lecture 5).
-- [Probability in High Dimension](https://web.math.princeton.edu/~rvan/APC550.pdf). 
-Lecture notes by Ramon van Handel.
-See for the development of concentration based on sub-Gaussianity etc. (Lecture 5).
-- [Concentration Inequalities: A Nonasymptotic Theory of Independence](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199535255.001.0001/acprof-9780199535255). 
-Book by Stéphane Boucheron, Gábor Lugosi, and Pascal Massart.
-See for the development of concentration based on sub-Gaussianity etc. (Lecture 5).
 
 
 ## Assignments
