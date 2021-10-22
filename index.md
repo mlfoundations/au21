@@ -33,9 +33,14 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 **Lecture 2**{: .label .label-purple }Project motivation and details (Oct. 5, [one page per slide](/au21/assets/lectures/cs599_au21_lecture_02.pdf), [one page per animation](/au21/assets/lectures/cs599_au21_lecture_02_one_page_per_animation.pdf)).
 
-**Lecture 3**{: .label .label-purple }Additional logistics and introduction to benchmarks (Oct. 7, [one page per slide](/au21/assets/lectures/cs599_au21_lecture_03.pdf), [one page per animation](/au21/assets/lectures/cs599_au21_lecture_03_one_page_per_animation.pdf)).
+**Lecture 3**{: .label .label-purple }Additional logistics, introduction to benchmarks, and confidence intervals (Oct. 7, [one page per slide](/au21/assets/lectures/cs599_au21_lecture_03.pdf), [one page per animation](/au21/assets/lectures/cs599_au21_lecture_03_one_page_per_animation.pdf)).
 
-**Lecture 4**{: .label .label-purple }Statistics I (Oct. 12, [code](/au21/assets/lectures/class_4_5.ipynb), see statistics resources below).
+[All of Statistics](https://www.springer.com/gp/book/9780387402727) by Larry Wasserman is a great general reference for statistics.
+
+**Lecture 4**{: .label .label-purple }Statistics I (Oct. 12, [code](/au21/assets/lectures/class_4_5.ipynb).
+
+* The first part of the class was based on [Kevin Jamieson's](https://homes.cs.washington.edu/~jamieson/about.html) [probability review](https://courses.cs.washington.edu/courses/cse599i/18wi/resources/lecture3/lecture3.pdf) in his class on [online and adaptive machine learning](https://courses.cs.washington.edu/courses/cse599i/18wi/).
+* The second part of the class followed Chapter 1 in the [high-dimensional statistics](http://www-math.mit.edu/~rigollet/PDFs/RigNotes17.pdf) lecture notes by [Philippe Rigollet](http://www-math.mit.edu/~rigollet/) and [Jan-Christian Hütter](https://www.jchuetter.com).
 
 **Lecture 5**{: .label .label-purple }Discussion 1 (Oct. 14, ImageNet).
 
@@ -47,10 +52,6 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 ### Statistics resources
 
-- [Stochastic Multi-Armed Bandits, Regret Minimization](https://courses.cs.washington.edu/courses/cse599i/18wi/resources/lecture3/lecture3.pdf). 
-Lecture notes form Kevin Jamieson. See for Lecture 4.
-- [High Dimensional Statistics](http://www-math.mit.edu/~rigollet/PDFs/RigNotes17.pdf). 
-Lecture notes by Philippe Rigollet and Jan-Christian Hütter. See for Lecture 4 (second half of chapter 1) and Lecture 5.
 - [High-Dimensional Statistics](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E). 
 Book by Martin J. Wainwright. See for Lecture 5.
 - [Confidence Bounds & Intervals for Parameters Relating to the Binomial, Negative Binomial, Poisson and Hypergeometric Distributions](http://faculty.washington.edu/fscholz/DATAFILES498B2008/ConfidenceBounds.pdf).
@@ -64,8 +65,7 @@ See for the development of concentration based on sub-Gaussianity etc. (Lecture 
 - [Concentration Inequalities: A Nonasymptotic Theory of Independence](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199535255.001.0001/acprof-9780199535255). 
 Book by Stéphane Boucheron, Gábor Lugosi, and Pascal Massart.
 See for the development of concentration based on sub-Gaussianity etc. (Lecture 5).
-- [All of Statistics](https://www.springer.com/gp/book/9780387402727). 
-Book by Larry Wasserman. See for Lecture 3 and general reference.
+
 
 ## Assignments
 
