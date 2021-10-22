@@ -45,7 +45,7 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 **Lecture 5**{: .label .label-purple }Discussion 1 (Oct. 14, ImageNet).
 
-**Lecture 6**{: .label .label-purple }Statistics II (Oct. 19 , see statistics resources below).
+**Lecture 6**{: .label .label-purple }Statistics II (Oct. 19).
 * The treatment of sub-Gaussian random variables and their properties was based on Chapter 1 in the [high-dimensional statistics](http://www-math.mit.edu/~rigollet/PDFs/RigNotes17.pdf) lecture notes by [Philippe Rigollet](http://www-math.mit.edu/~rigollet/) and [Jan-Christian Hütter](https://www.jchuetter.com) and [Martin Wainwright's](https://people.eecs.berkeley.edu/~wainwrig/) book on [high-dimensional statistics](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E).
 * The derivation of Clopper-Pearson confidence intervals followed the [lecture notes](http://faculty.washington.edu/fscholz/DATAFILES498B2008/ConfidenceBounds.pdf) by [Fritz Scholz](http://faculty.washington.edu/fscholz/).
 * The [Jupyter notebook](/au21/assets/lectures/class_4_5.ipynb) to illustrate the coverage properties of confidence intervals.
