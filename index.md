@@ -37,10 +37,11 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 [All of Statistics](https://www.springer.com/gp/book/9780387402727) by Larry Wasserman is a great general reference for statistics.
 
-**Lecture 4**{: .label .label-purple }Statistics I (Oct. 12, [code](/au21/assets/lectures/class_4_5.ipynb).
+**Lecture 4**{: .label .label-purple }Statistics I (Oct. 12).
 
-* The first part of the class was based on [Kevin Jamieson's](https://homes.cs.washington.edu/~jamieson/about.html) [probability review](https://courses.cs.washington.edu/courses/cse599i/18wi/resources/lecture3/lecture3.pdf) in his class on [online and adaptive machine learning](https://courses.cs.washington.edu/courses/cse599i/18wi/).
+* The first part of the lecture was based on [Kevin Jamieson's](https://homes.cs.washington.edu/~jamieson/about.html) [probability review](https://courses.cs.washington.edu/courses/cse599i/18wi/resources/lecture3/lecture3.pdf) in his class on [online and adaptive machine learning](https://courses.cs.washington.edu/courses/cse599i/18wi/).
 * The second part of the class followed Chapter 1 in the [high-dimensional statistics](http://www-math.mit.edu/~rigollet/PDFs/RigNotes17.pdf) lecture notes by [Philippe Rigollet](http://www-math.mit.edu/~rigollet/) and [Jan-Christian Hütter](https://www.jchuetter.com).
+* The [Jupyter notebook](/au21/assets/lectures/class_4_5.ipynb) to illustrate the coverage properties of confidence intervals.
 
 **Lecture 5**{: .label .label-purple }Discussion 1 (Oct. 14, ImageNet).
 
