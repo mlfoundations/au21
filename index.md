@@ -77,6 +77,11 @@ the main plots (does not have to be real data),
 and describe the goals of your team for the final 
 project (including details such as datasets, etc.).
 
+**Update**{: .label .label-purple } By Monday November 8 at 5pm, 
+please upload a video describing
+your project proposal and optionally any progress made so far
+to the google drive folder linked in an email and on the mattermost.
+
 ### Role-Playing Paper-Reading Seminars
 
 Inspired by [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/) and 
