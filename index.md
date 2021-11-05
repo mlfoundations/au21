@@ -110,3 +110,6 @@ Logistics will work as follows:
 - [Deep Reinforcement Learning at the Edge of the Statistical Precipice](https://arxiv.org/abs/2108.13264)
 - [With Little Power Comes Great Responsibility](https://arxiv.org/abs/2010.06595)
 
+**Discussion 4**{: .label .label-purple } (Thursday, Nov 11): Role assignments can be found in the paper discussion channel on mattermost. We will be reading:
+- [Rip van Winkle's Razor: A Simple Estimate of Overfit to Test Data](https://arxiv.org/abs/2102.13189)
+- [The advantages of multiple classes for reducing overfitting from test set reuse](https://proceedings.mlr.press/v97/feldman19a.html)
